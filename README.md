@@ -28,14 +28,6 @@ It is designed for scenarios where no official API is available
 - Research or engineering automation where APIs are unavailable
 
 ---
-
-## 📦 Installation (Development)
-
-This project is intended to be used in **editable (development) mode**.
-
-```bash
-pip install -e .
-
 ## 🚀 Demo
 
 A real execution demo of the vision-based GUI automation workflow
@@ -44,3 +36,12 @@ is provided in the repository.
 - Demo script: `examples/demo.py`
 - Demo video (real execution):
 examples/屏幕录制 2026-01-21 131029.mp4
+
+## 📦 Installation (Development)
+
+This project is intended to be used in **editable (development) mode**.
+
+```bash
+pip install -e .
+
+
