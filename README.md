@@ -35,7 +35,9 @@ is provided in the repository.
 
 - Demo script: `examples/demo.py`
 - Demo video (real execution):
-examples/屏幕录制 2026-01-21 131029.mp4
+
+[▶️ Play demo video](examples/屏幕录制%202026-01-21%20131029.mp4)
+
 
 ## 📦 Installation (Development)
 
