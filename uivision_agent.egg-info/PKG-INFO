@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: uivision-agent
+Version: 0.1.0
+Summary: Vision-based GUI automation for black-box software
+Author-email: YRD <yanrui.du@vub.be>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: opencv-python
+Requires-Dist: pyautogui
+Requires-Dist: pywinauto
+Requires-Dist: numpy
+Dynamic: license-file
